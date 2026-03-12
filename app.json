@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Kisan Sahayak",
+    "slug": "kisan-sahayak",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {}
+  }
+}
